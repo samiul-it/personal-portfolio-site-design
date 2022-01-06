@@ -1,0 +1,145 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;  
+    padding-left: 100px; 
+    padding-right: 100px;
+    
+}
+.half-width{
+    width: 50%;   
+   
+}
+.half-width h1{
+    font-size: 50px;
+    padding-left: 5px;
+}
+.half-width img{
+    width: 55%;
+    padding-left: 200px;
+}
+section{
+    display: flex;
+}
+.orange-text{
+    color: rgb(231, 163, 37);
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.generic-button{
+    background-image: linear-gradient(rgb(146, 60, 211),rgba(159, 116, 36, 0.768));
+    padding: 10px;
+    border-radius: 3px;
+}
+.text-heading-border{
+    border-left: 6px solid orange;
+    
+}
+.mission-section-header{
+    text-align: center;
+}
+.mission-column img{
+    width: 20%;
+}
+.mission-column h5{
+    margin-top:0px;
+    padding-left: 5px;
+}
+.mission-column{
+    width: 33%;
+    border-radius: 10px;
+    margin-right: 10px;
+   
+    background-color: rgb(143, 204, 241);
+}
+.vision-column img{
+    width: 20%;
+}
+.vision-column h5{
+    margin-top:0px;
+    padding-left: 5px;
+}
+.vision-column{
+    width: 33%;
+    background-color: rgb(240, 199, 198);
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.goal-column img{
+    width: 20%;
+}
+.goal-column h5{
+    margin-top:0px;
+    padding-left: 5px;
+}
+.goal-column{
+    width: 33%;
+    background-color: rgb(179, 214, 214);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.documentation{
+    display: flex;
+    padding-top: 100px;
+}
+.documentation-link{
+    width: 60%;
+    padding-right: 100px;
+    
+}
+
+.documentation-link h1{
+    font-size: 50px;
+}
+.documentation-img{
+    width: 40%;
+}
+.documentation-img img{
+    width:80%;
+    
+}
+
+.contact-tab{
+    width: 50%;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: rgb(224, 220, 208);
+    height: 320px;
+}
+.projects{
+    width: 50%;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: rgb(197, 228, 227);
+    height: 320px;
+}
+.contact-header{
+    background-color: rgb(255, 255, 255);
+}
+.projects img{
+    width: 45%;
+    border-radius: 10px;
+
+}
+.left-text{
+    text-align: left;
+}
+footer{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    padding-left: 00px; 
+    padding-right: 00px;
+    margin-top: 10px;
+    text-align: center;
+}
+footer h2 {
+    color: white;
+    padding-top: 10px;
+}
+footer p {
+    color: white;
+}
